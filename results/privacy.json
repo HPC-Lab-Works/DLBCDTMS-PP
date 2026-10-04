@@ -1,0 +1,2752 @@
+[
+ {
+  "seed": 0,
+  "N": 250,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.919578947368421,
+    "anon": 3.290947368421053,
+    "entropy": 0.9708208914559923,
+    "track_frac": 0.6785933333333334,
+    "silent_frac": 0.0,
+    "changes": 2375
+   },
+   "Random interval": {
+    "success": 0.93456980937661,
+    "anon": 2.8722308088614117,
+    "entropy": 0.8133438110174538,
+    "track_frac": 0.75022,
+    "silent_frac": 0.0,
+    "changes": 1941
+   },
+   "Random + silent period": {
+    "success": 0.9495614035087719,
+    "anon": 2.724780701754386,
+    "entropy": 0.7718810857225098,
+    "track_frac": 0.8129333333333333,
+    "silent_frac": 0.06066666666666667,
+    "changes": 1824
+   },
+   "Random + silent + context": {
+    "success": 0.90732889158086,
+    "anon": 2.8952150211992733,
+    "entropy": 0.8946860440303073,
+    "track_frac": 0.7213866666666665,
+    "silent_frac": 0.055393333333333336,
+    "changes": 1651
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.831410825199645,
+    "anon": 4.640638864241349,
+    "entropy": 1.513728681950983,
+    "track_frac": 0.45855333333333337,
+    "silent_frac": 0.0747,
+    "changes": 2254
+   }
+  }
+ },
+ {
+  "seed": 0,
+  "N": 500,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8472397808680995,
+    "anon": 5.40181205225453,
+    "entropy": 1.5653444499568945,
+    "track_frac": 0.5004466666666667,
+    "silent_frac": 0.0,
+    "changes": 4746
+   },
+   "Random interval": {
+    "success": 0.8673130900739985,
+    "anon": 4.655779535595816,
+    "entropy": 1.3692116658695646,
+    "track_frac": 0.5726466666666667,
+    "silent_frac": 0.0,
+    "changes": 3919
+   },
+   "Random + silent period": {
+    "success": 0.900952380952381,
+    "anon": 4.431020408163265,
+    "entropy": 1.3248590852660473,
+    "track_frac": 0.6888133333333333,
+    "silent_frac": 0.06123,
+    "changes": 3675
+   },
+   "Random + silent + context": {
+    "success": 0.8837273991655077,
+    "anon": 4.493184979137691,
+    "entropy": 1.355206742446282,
+    "track_frac": 0.6470666666666666,
+    "silent_frac": 0.059796666666666665,
+    "changes": 3595
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.784942084942085,
+    "anon": 7.54015444015444,
+    "entropy": 2.0720557134836923,
+    "track_frac": 0.32433000000000006,
+    "silent_frac": 0.08628666666666666,
+    "changes": 5180
+   }
+  }
+ },
+ {
+  "seed": 0,
+  "N": 1000,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.7364757987978487,
+    "anon": 9.875777707476537,
+    "entropy": 2.3804266914133043,
+    "track_frac": 0.316275,
+    "silent_frac": 0.0,
+    "changes": 9483
+   },
+   "Random interval": {
+    "success": 0.7674684994272624,
+    "anon": 8.352806414662085,
+    "entropy": 2.1435209442925878,
+    "track_frac": 0.38995,
+    "silent_frac": 0.0,
+    "changes": 7857
+   },
+   "Random + silent period": {
+    "success": 0.8273980079137673,
+    "anon": 7.972847591758766,
+    "entropy": 2.0939721011783883,
+    "track_frac": 0.51561,
+    "silent_frac": 0.06116833333333333,
+    "changes": 7329
+   },
+   "Random + silent + context": {
+    "success": 0.8201664620002729,
+    "anon": 7.9723018147086915,
+    "entropy": 2.0949686925610274,
+    "track_frac": 0.4924316666666666,
+    "silent_frac": 0.06118833333333333,
+    "changes": 7329
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7179686824119733,
+    "anon": 14.389134008132192,
+    "entropy": 2.907635566431102,
+    "track_frac": 0.21335166666666666,
+    "silent_frac": 0.09630166666666666,
+    "changes": 11559
+   }
+  }
+ },
+ {
+  "seed": 1,
+  "N": 250,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.9078224101479916,
+    "anon": 3.20507399577167,
+    "entropy": 0.9424711267726855,
+    "track_frac": 0.66252,
+    "silent_frac": 0.0,
+    "changes": 2365
+   },
+   "Random interval": {
+    "success": 0.9281740010116338,
+    "anon": 2.7622660596863935,
+    "entropy": 0.7777936022483555,
+    "track_frac": 0.7536333333333334,
+    "silent_frac": 0.0,
+    "changes": 1977
+   },
+   "Random + silent period": {
+    "success": 0.9359391965255157,
+    "anon": 2.730727470141151,
+    "entropy": 0.7741781944115146,
+    "track_frac": 0.7703066666666666,
+    "silent_frac": 0.06116,
+    "changes": 1842
+   },
+   "Random + silent + context": {
+    "success": 0.9221411192214112,
+    "anon": 2.8771289537712894,
+    "entropy": 0.8841532461133068,
+    "track_frac": 0.7456933333333334,
+    "silent_frac": 0.0545,
+    "changes": 1644
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8214765100671141,
+    "anon": 4.50917225950783,
+    "entropy": 1.4982635046290183,
+    "track_frac": 0.42389333333333334,
+    "silent_frac": 0.0747,
+    "changes": 2235
+   }
+  }
+ },
+ {
+  "seed": 1,
+  "N": 500,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8511087645195353,
+    "anon": 5.358394931362197,
+    "entropy": 1.5496665977286455,
+    "track_frac": 0.5076533333333333,
+    "silent_frac": 0.0,
+    "changes": 4735
+   },
+   "Random interval": {
+    "success": 0.8650228774783935,
+    "anon": 4.685815963396035,
+    "entropy": 1.3769854124504453,
+    "track_frac": 0.5705866666666666,
+    "silent_frac": 0.0,
+    "changes": 3934
+   },
+   "Random + silent period": {
+    "success": 0.9050718741524274,
+    "anon": 4.547870897748847,
+    "entropy": 1.3437785862069422,
+    "track_frac": 0.6837433333333334,
+    "silent_frac": 0.06136333333333333,
+    "changes": 3687
+   },
+   "Random + silent + context": {
+    "success": 0.8888888888888888,
+    "anon": 4.604599612080909,
+    "entropy": 1.388761255324197,
+    "track_frac": 0.65076,
+    "silent_frac": 0.060013333333333335,
+    "changes": 3609
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8015690776884806,
+    "anon": 7.552621507845388,
+    "entropy": 2.065566797562245,
+    "track_frac": 0.34332999999999997,
+    "silent_frac": 0.08715333333333333,
+    "changes": 5226
+   }
+  }
+ },
+ {
+  "seed": 1,
+  "N": 1000,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.7252423093131057,
+    "anon": 9.819110830172777,
+    "entropy": 2.3749784703622603,
+    "track_frac": 0.3038033333333333,
+    "silent_frac": 0.0,
+    "changes": 9492
+   },
+   "Random interval": {
+    "success": 0.7674418604651163,
+    "anon": 8.34616850934045,
+    "entropy": 2.144665279581398,
+    "track_frac": 0.3990416666666667,
+    "silent_frac": 0.0,
+    "changes": 7869
+   },
+   "Random + silent period": {
+    "success": 0.8274132321041214,
+    "anon": 8.024403470715836,
+    "entropy": 2.097010325182679,
+    "track_frac": 0.51678,
+    "silent_frac": 0.06148833333333333,
+    "changes": 7376
+   },
+   "Random + silent + context": {
+    "success": 0.8341919739696312,
+    "anon": 8.040265726681127,
+    "entropy": 2.0978140236984815,
+    "track_frac": 0.5371566666666667,
+    "silent_frac": 0.061483333333333334,
+    "changes": 7376
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7202014063720809,
+    "anon": 14.281361229273374,
+    "entropy": 2.8940702988935025,
+    "track_frac": 0.21628333333333336,
+    "silent_frac": 0.09600666666666667,
+    "changes": 11519
+   }
+  }
+ },
+ {
+  "seed": 2,
+  "N": 250,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.9097397145256088,
+    "anon": 3.1700251889168767,
+    "entropy": 0.934354279402992,
+    "track_frac": 0.6507133333333334,
+    "silent_frac": 0.0,
+    "changes": 2382
+   },
+   "Random interval": {
+    "success": 0.9363314805457301,
+    "anon": 2.8403233956543708,
+    "entropy": 0.7894713866657787,
+    "track_frac": 0.7656133333333333,
+    "silent_frac": 0.0,
+    "changes": 1979
+   },
+   "Random + silent period": {
+    "success": 0.9432432432432433,
+    "anon": 2.7767567567567566,
+    "entropy": 0.779723876971219,
+    "track_frac": 0.8185666666666667,
+    "silent_frac": 0.061913333333333334,
+    "changes": 1850
+   },
+   "Random + silent + context": {
+    "success": 0.908761329305136,
+    "anon": 2.945015105740181,
+    "entropy": 0.9194918312454327,
+    "track_frac": 0.7071533333333334,
+    "silent_frac": 0.05526,
+    "changes": 1655
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8331108144192256,
+    "anon": 4.649755229194482,
+    "entropy": 1.529337365801192,
+    "track_frac": 0.49367333333333335,
+    "silent_frac": 0.07425333333333334,
+    "changes": 2247
+   }
+  }
+ },
+ {
+  "seed": 2,
+  "N": 500,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8530090165653177,
+    "anon": 5.342210106940659,
+    "entropy": 1.546917743859978,
+    "track_frac": 0.4938066666666666,
+    "silent_frac": 0.0,
+    "changes": 4769
+   },
+   "Random interval": {
+    "success": 0.8756990340620234,
+    "anon": 4.640823589222165,
+    "entropy": 1.378114133648837,
+    "track_frac": 0.6073166666666667,
+    "silent_frac": 0.0,
+    "changes": 3934
+   },
+   "Random + silent period": {
+    "success": 0.8997275204359673,
+    "anon": 4.48283378746594,
+    "entropy": 1.3330044317870169,
+    "track_frac": 0.6716366666666668,
+    "silent_frac": 0.06122333333333333,
+    "changes": 3670
+   },
+   "Random + silent + context": {
+    "success": 0.8915795266923501,
+    "anon": 4.495321959273528,
+    "entropy": 1.3539900533138174,
+    "track_frac": 0.65239,
+    "silent_frac": 0.06082333333333333,
+    "changes": 3634
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8020294849703236,
+    "anon": 7.462186482864254,
+    "entropy": 2.0488321582476923,
+    "track_frac": 0.3558066666666666,
+    "silent_frac": 0.08700666666666666,
+    "changes": 5223
+   }
+  }
+ },
+ {
+  "seed": 2,
+  "N": 1000,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.7252148396562565,
+    "anon": 9.893628170194928,
+    "entropy": 2.3847226202266483,
+    "track_frac": 0.2924416666666667,
+    "silent_frac": 0.0,
+    "changes": 9542
+   },
+   "Random interval": {
+    "success": 0.7665731769505354,
+    "anon": 8.381183069862315,
+    "entropy": 2.1485901506227494,
+    "track_frac": 0.38978500000000005,
+    "silent_frac": 0.0,
+    "changes": 7844
+   },
+   "Random + silent period": {
+    "success": 0.8299291938997821,
+    "anon": 7.988834422657952,
+    "entropy": 2.0839271478185712,
+    "track_frac": 0.513505,
+    "silent_frac": 0.060983333333333334,
+    "changes": 7344
+   },
+   "Random + silent + context": {
+    "success": 0.8349673202614379,
+    "anon": 8.02859477124183,
+    "entropy": 2.08971891351447,
+    "track_frac": 0.5229183333333334,
+    "silent_frac": 0.06097333333333333,
+    "changes": 7344
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7135060209650871,
+    "anon": 14.320280689595426,
+    "entropy": 2.907998264248382,
+    "track_frac": 0.20284833333333332,
+    "silent_frac": 0.09653333333333333,
+    "changes": 11543
+   }
+  }
+ },
+ {
+  "seed": 3,
+  "N": 250,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.9201680672268907,
+    "anon": 3.204201680672269,
+    "entropy": 0.9393617974590776,
+    "track_frac": 0.6955999999999999,
+    "silent_frac": 0.0,
+    "changes": 2380
+   },
+   "Random interval": {
+    "success": 0.9349385245901639,
+    "anon": 2.7986680327868854,
+    "entropy": 0.7990521438716202,
+    "track_frac": 0.7356266666666668,
+    "silent_frac": 0.0,
+    "changes": 1952
+   },
+   "Random + silent period": {
+    "success": 0.9377729257641921,
+    "anon": 2.711244541484716,
+    "entropy": 0.7658365640826374,
+    "track_frac": 0.7901666666666667,
+    "silent_frac": 0.06138,
+    "changes": 1832
+   },
+   "Random + silent + context": {
+    "success": 0.9123337363966143,
+    "anon": 2.882103990326481,
+    "entropy": 0.8934501150643109,
+    "track_frac": 0.7315266666666667,
+    "silent_frac": 0.05538666666666667,
+    "changes": 1654
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8299776286353467,
+    "anon": 4.523042505592842,
+    "entropy": 1.4853354524741025,
+    "track_frac": 0.48090666666666665,
+    "silent_frac": 0.07483333333333334,
+    "changes": 2235
+   }
+  }
+ },
+ {
+  "seed": 3,
+  "N": 500,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.845797345692016,
+    "anon": 5.483041921213398,
+    "entropy": 1.5729410604168124,
+    "track_frac": 0.48901666666666666,
+    "silent_frac": 0.0,
+    "changes": 4747
+   },
+   "Random interval": {
+    "success": 0.8636596617119426,
+    "anon": 4.761916965658637,
+    "entropy": 1.3957411544071743,
+    "track_frac": 0.56133,
+    "silent_frac": 0.0,
+    "changes": 3902
+   },
+   "Random + silent period": {
+    "success": 0.9062330623306233,
+    "anon": 4.5634146341463415,
+    "entropy": 1.3411188334305983,
+    "track_frac": 0.6778566666666667,
+    "silent_frac": 0.062033333333333336,
+    "changes": 3690
+   },
+   "Random + silent + context": {
+    "success": 0.8830555555555556,
+    "anon": 4.624444444444444,
+    "entropy": 1.3863213814521456,
+    "track_frac": 0.6366833333333334,
+    "silent_frac": 0.06025333333333333,
+    "changes": 3600
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7984227736103097,
+    "anon": 7.525870359684554,
+    "entropy": 2.052983417954136,
+    "track_frac": 0.35434333333333334,
+    "silent_frac": 0.08732666666666666,
+    "changes": 5199
+   }
+  }
+ },
+ {
+  "seed": 3,
+  "N": 1000,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.7354118390562461,
+    "anon": 9.801769538655993,
+    "entropy": 2.3715098079874664,
+    "track_frac": 0.3101633333333333,
+    "silent_frac": 0.0,
+    "changes": 9494
+   },
+   "Random interval": {
+    "success": 0.7702547036989633,
+    "anon": 8.328938947907334,
+    "entropy": 2.138620326135698,
+    "track_frac": 0.386415,
+    "silent_frac": 0.0,
+    "changes": 7813
+   },
+   "Random + silent period": {
+    "success": 0.8257350957647693,
+    "anon": 7.953736174804424,
+    "entropy": 2.086365164238849,
+    "track_frac": 0.503465,
+    "silent_frac": 0.062036666666666664,
+    "changes": 7414
+   },
+   "Random + silent + context": {
+    "success": 0.827203893996755,
+    "anon": 8.01419686316928,
+    "entropy": 2.1026568132686463,
+    "track_frac": 0.507135,
+    "silent_frac": 0.061821666666666664,
+    "changes": 7396
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7225176532124488,
+    "anon": 14.069479557144103,
+    "entropy": 2.8890313562148577,
+    "track_frac": 0.20207666666666665,
+    "silent_frac": 0.09552333333333334,
+    "changes": 11471
+   }
+  }
+ },
+ {
+  "seed": 4,
+  "N": 250,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.9271356783919598,
+    "anon": 3.226549413735343,
+    "entropy": 0.9458277003441786,
+    "track_frac": 0.69888,
+    "silent_frac": 0.0,
+    "changes": 2388
+   },
+   "Random interval": {
+    "success": 0.9289729177312213,
+    "anon": 2.834440470107307,
+    "entropy": 0.8056544882351933,
+    "track_frac": 0.7504400000000001,
+    "silent_frac": 0.0,
+    "changes": 1957
+   },
+   "Random + silent period": {
+    "success": 0.9377410468319559,
+    "anon": 2.7763085399449037,
+    "entropy": 0.792293225116294,
+    "track_frac": 0.77826,
+    "silent_frac": 0.06062,
+    "changes": 1815
+   },
+   "Random + silent + context": {
+    "success": 0.9049079754601227,
+    "anon": 2.9907975460122698,
+    "entropy": 0.9234165573343068,
+    "track_frac": 0.7086600000000001,
+    "silent_frac": 0.054253333333333334,
+    "changes": 1630
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8443946188340807,
+    "anon": 4.547085201793722,
+    "entropy": 1.489954469496067,
+    "track_frac": 0.5030666666666668,
+    "silent_frac": 0.07465333333333334,
+    "changes": 2230
+   }
+  }
+ },
+ {
+  "seed": 4,
+  "N": 500,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.85609551738584,
+    "anon": 5.534352744030163,
+    "entropy": 1.5821594325219428,
+    "track_frac": 0.5068533333333334,
+    "silent_frac": 0.0,
+    "changes": 4774
+   },
+   "Random interval": {
+    "success": 0.8710506036475726,
+    "anon": 4.691754431030054,
+    "entropy": 1.3831130154451532,
+    "track_frac": 0.5618899999999999,
+    "silent_frac": 0.0,
+    "changes": 3893
+   },
+   "Random + silent period": {
+    "success": 0.9021649767059469,
+    "anon": 4.481501781309948,
+    "entropy": 1.3296726643666543,
+    "track_frac": 0.6736733333333335,
+    "silent_frac": 0.060546666666666665,
+    "changes": 3649
+   },
+   "Random + silent + context": {
+    "success": 0.884679203539823,
+    "anon": 4.566648230088496,
+    "entropy": 1.3722020243247546,
+    "track_frac": 0.6296466666666667,
+    "silent_frac": 0.06043333333333333,
+    "changes": 3616
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7972791722552213,
+    "anon": 7.607204445296034,
+    "entropy": 2.0802193514189735,
+    "track_frac": 0.3246,
+    "silent_frac": 0.08778666666666667,
+    "changes": 5219
+   }
+  }
+ },
+ {
+  "seed": 4,
+  "N": 1000,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.7363215488215489,
+    "anon": 9.753998316498317,
+    "entropy": 2.373498238533327,
+    "track_frac": 0.312195,
+    "silent_frac": 0.0,
+    "changes": 9504
+   },
+   "Random interval": {
+    "success": 0.7694568690095847,
+    "anon": 8.326006389776358,
+    "entropy": 2.1348737150283528,
+    "track_frac": 0.4004516666666666,
+    "silent_frac": 0.0,
+    "changes": 7825
+   },
+   "Random + silent period": {
+    "success": 0.8425132598939209,
+    "anon": 7.9080647354821165,
+    "entropy": 2.076541348758486,
+    "track_frac": 0.5504483333333333,
+    "silent_frac": 0.061206666666666666,
+    "changes": 7353
+   },
+   "Random + silent + context": {
+    "success": 0.8376278118609407,
+    "anon": 7.886707566462167,
+    "entropy": 2.0710396771980433,
+    "track_frac": 0.537215,
+    "silent_frac": 0.06104333333333333,
+    "changes": 7335
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.718182607940231,
+    "anon": 14.148032316914255,
+    "entropy": 2.887647125510481,
+    "track_frac": 0.18466500000000002,
+    "silent_frac": 0.09598166666666667,
+    "changes": 11511
+   }
+  }
+ },
+ {
+  "seed": 5,
+  "N": 250,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.9240453210239195,
+    "anon": 3.1624003357112884,
+    "entropy": 0.91490972061349,
+    "track_frac": 0.69302,
+    "silent_frac": 0.0,
+    "changes": 2383
+   },
+   "Random interval": {
+    "success": 0.9367991845056065,
+    "anon": 2.7604485219164117,
+    "entropy": 0.7684509381220362,
+    "track_frac": 0.7589333333333333,
+    "silent_frac": 0.0,
+    "changes": 1962
+   },
+   "Random + silent period": {
+    "success": 0.9383116883116883,
+    "anon": 2.7240259740259742,
+    "entropy": 0.7781025146410648,
+    "track_frac": 0.7862933333333333,
+    "silent_frac": 0.061746666666666665,
+    "changes": 1848
+   },
+   "Random + silent + context": {
+    "success": 0.9039274924471299,
+    "anon": 2.876737160120846,
+    "entropy": 0.8869528340935863,
+    "track_frac": 0.7369600000000001,
+    "silent_frac": 0.05469333333333333,
+    "changes": 1655
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8403093721565059,
+    "anon": 4.481346678798908,
+    "entropy": 1.4707902671165463,
+    "track_frac": 0.50612,
+    "silent_frac": 0.07332666666666666,
+    "changes": 2198
+   }
+  }
+ },
+ {
+  "seed": 5,
+  "N": 500,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8477530449391012,
+    "anon": 5.3813523729525405,
+    "entropy": 1.5689644711774295,
+    "track_frac": 0.4960933333333334,
+    "silent_frac": 0.0,
+    "changes": 4762
+   },
+   "Random interval": {
+    "success": 0.8694876370124904,
+    "anon": 4.649502931430028,
+    "entropy": 1.3739885972265333,
+    "track_frac": 0.5712900000000001,
+    "silent_frac": 0.0,
+    "changes": 3923
+   },
+   "Random + silent period": {
+    "success": 0.8966919739696312,
+    "anon": 4.470986984815618,
+    "entropy": 1.3275468216722062,
+    "track_frac": 0.6724433333333334,
+    "silent_frac": 0.06152333333333333,
+    "changes": 3688
+   },
+   "Random + silent + context": {
+    "success": 0.8754487710577189,
+    "anon": 4.4763877381938695,
+    "entropy": 1.3545756137521272,
+    "track_frac": 0.62073,
+    "silent_frac": 0.060513333333333336,
+    "changes": 3621
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.790648854961832,
+    "anon": 7.694274809160305,
+    "entropy": 2.0864090108147932,
+    "track_frac": 0.3466033333333334,
+    "silent_frac": 0.08722666666666666,
+    "changes": 5240
+   }
+  }
+ },
+ {
+  "seed": 5,
+  "N": 1000,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.725391322617922,
+    "anon": 9.854081311062087,
+    "entropy": 2.3809821409556977,
+    "track_frac": 0.30023500000000003,
+    "silent_frac": 0.0,
+    "changes": 9519
+   },
+   "Random interval": {
+    "success": 0.7628865979381443,
+    "anon": 8.396970854015528,
+    "entropy": 2.1518504807662087,
+    "track_frac": 0.3866266666666667,
+    "silent_frac": 0.0,
+    "changes": 7857
+   },
+   "Random + silent period": {
+    "success": 0.8354978354978355,
+    "anon": 8.012987012987013,
+    "entropy": 2.102719709841232,
+    "track_frac": 0.5255416666666668,
+    "silent_frac": 0.061603333333333336,
+    "changes": 7392
+   },
+   "Random + silent + context": {
+    "success": 0.8340788938592923,
+    "anon": 8.03050020333469,
+    "entropy": 2.1059328941663327,
+    "track_frac": 0.5291283333333333,
+    "silent_frac": 0.061391666666666664,
+    "changes": 7377
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7184205978918266,
+    "anon": 14.514601693450839,
+    "entropy": 2.9102089030020024,
+    "track_frac": 0.219115,
+    "silent_frac": 0.0967,
+    "changes": 11574
+   }
+  }
+ },
+ {
+  "seed": 6,
+  "N": 250,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.9082491582491582,
+    "anon": 3.211279461279461,
+    "entropy": 0.9481891913890462,
+    "track_frac": 0.6554933333333334,
+    "silent_frac": 0.0,
+    "changes": 2376
+   },
+   "Random interval": {
+    "success": 0.9336372847011145,
+    "anon": 2.833839918946302,
+    "entropy": 0.806357599211034,
+    "track_frac": 0.75,
+    "silent_frac": 0.0,
+    "changes": 1974
+   },
+   "Random + silent period": {
+    "success": 0.9369272237196765,
+    "anon": 2.7870619946091644,
+    "entropy": 0.7960541473514039,
+    "track_frac": 0.7669333333333334,
+    "silent_frac": 0.06222,
+    "changes": 1855
+   },
+   "Random + silent + context": {
+    "success": 0.9132281553398058,
+    "anon": 2.908373786407767,
+    "entropy": 0.9207870344227289,
+    "track_frac": 0.7502066666666667,
+    "silent_frac": 0.05502,
+    "changes": 1648
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8262222222222222,
+    "anon": 4.5697777777777775,
+    "entropy": 1.5062393205684745,
+    "track_frac": 0.4384733333333334,
+    "silent_frac": 0.07514666666666667,
+    "changes": 2250
+   }
+  }
+ },
+ {
+  "seed": 6,
+  "N": 500,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8434089000839631,
+    "anon": 5.471032745591939,
+    "entropy": 1.5705818342394566,
+    "track_frac": 0.46904,
+    "silent_frac": 0.0,
+    "changes": 4764
+   },
+   "Random interval": {
+    "success": 0.8697425439714505,
+    "anon": 4.699974509304104,
+    "entropy": 1.3722019466297755,
+    "track_frac": 0.576,
+    "silent_frac": 0.0,
+    "changes": 3923
+   },
+   "Random + silent period": {
+    "success": 0.8987788331071913,
+    "anon": 4.503120759837178,
+    "entropy": 1.335911396974029,
+    "track_frac": 0.6556433333333334,
+    "silent_frac": 0.06170666666666667,
+    "changes": 3685
+   },
+   "Random + silent + context": {
+    "success": 0.8855488141202427,
+    "anon": 4.633480419194705,
+    "entropy": 1.389523341049402,
+    "track_frac": 0.64874,
+    "silent_frac": 0.0606,
+    "changes": 3626
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7998476480670349,
+    "anon": 7.526756808227004,
+    "entropy": 2.0546397853484244,
+    "track_frac": 0.34445666666666663,
+    "silent_frac": 0.08780666666666667,
+    "changes": 5251
+   }
+  }
+ },
+ {
+  "seed": 6,
+  "N": 1000,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.7268154668343288,
+    "anon": 9.87844493345908,
+    "entropy": 2.3881427194630915,
+    "track_frac": 0.31027499999999997,
+    "silent_frac": 0.0,
+    "changes": 9543
+   },
+   "Random interval": {
+    "success": 0.7667649698679317,
+    "anon": 8.323759456340557,
+    "entropy": 2.139548056279555,
+    "track_frac": 0.3960816666666667,
+    "silent_frac": 0.0,
+    "changes": 7799
+   },
+   "Random + silent period": {
+    "success": 0.8314560998778667,
+    "anon": 8.022798208712173,
+    "entropy": 2.0896976139863273,
+    "track_frac": 0.5117583333333333,
+    "silent_frac": 0.06150666666666667,
+    "changes": 7369
+   },
+   "Random + silent + context": {
+    "success": 0.8305061745148595,
+    "anon": 8.00583525580133,
+    "entropy": 2.0926136661416903,
+    "track_frac": 0.5126483333333333,
+    "silent_frac": 0.061495,
+    "changes": 7369
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.711488476867094,
+    "anon": 14.229163056662623,
+    "entropy": 2.8913398730647413,
+    "track_frac": 0.18258999999999997,
+    "silent_frac": 0.09625,
+    "changes": 11542
+   }
+  }
+ },
+ {
+  "seed": 7,
+  "N": 250,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.9222035323801514,
+    "anon": 3.2582001682085786,
+    "entropy": 0.9622091003428018,
+    "track_frac": 0.6815266666666666,
+    "silent_frac": 0.0,
+    "changes": 2378
+   },
+   "Random interval": {
+    "success": 0.929923273657289,
+    "anon": 2.886445012787724,
+    "entropy": 0.8199193929757435,
+    "track_frac": 0.7068933333333333,
+    "silent_frac": 0.0,
+    "changes": 1955
+   },
+   "Random + silent period": {
+    "success": 0.9400218102508179,
+    "anon": 2.822246455834242,
+    "entropy": 0.8091077223918075,
+    "track_frac": 0.7759733333333334,
+    "silent_frac": 0.060893333333333334,
+    "changes": 1834
+   },
+   "Random + silent + context": {
+    "success": 0.921733895243829,
+    "anon": 2.9614689945815775,
+    "entropy": 0.9364774968979153,
+    "track_frac": 0.7552333333333333,
+    "silent_frac": 0.05548666666666666,
+    "changes": 1661
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8464285714285714,
+    "anon": 4.588392857142857,
+    "entropy": 1.5075784687446145,
+    "track_frac": 0.5097866666666666,
+    "silent_frac": 0.07439333333333334,
+    "changes": 2240
+   }
+  }
+ },
+ {
+  "seed": 7,
+  "N": 500,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8463963017440639,
+    "anon": 5.4297121243958815,
+    "entropy": 1.57684827119691,
+    "track_frac": 0.4918066666666666,
+    "silent_frac": 0.0,
+    "changes": 4759
+   },
+   "Random interval": {
+    "success": 0.8702620198422794,
+    "anon": 4.714067667260239,
+    "entropy": 1.3828081670818513,
+    "track_frac": 0.5568233333333332,
+    "silent_frac": 0.0,
+    "changes": 3931
+   },
+   "Random + silent period": {
+    "success": 0.900355871886121,
+    "anon": 4.424308787298111,
+    "entropy": 1.3230090851412382,
+    "track_frac": 0.6710433333333333,
+    "silent_frac": 0.06071,
+    "changes": 3653
+   },
+   "Random + silent + context": {
+    "success": 0.8765945646145313,
+    "anon": 4.5862451469772605,
+    "entropy": 1.3842194619363208,
+    "track_frac": 0.6273833333333333,
+    "silent_frac": 0.059776666666666665,
+    "changes": 3606
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7886194386098911,
+    "anon": 7.7830819171281265,
+    "entropy": 2.0986939799057978,
+    "track_frac": 0.33127333333333336,
+    "silent_frac": 0.08729333333333333,
+    "changes": 5237
+   }
+  }
+ },
+ {
+  "seed": 7,
+  "N": 1000,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.7261066133950163,
+    "anon": 9.897592261591841,
+    "entropy": 2.391327713801066,
+    "track_frac": 0.31619500000000006,
+    "silent_frac": 0.0,
+    "changes": 9511
+   },
+   "Random interval": {
+    "success": 0.7695452222789985,
+    "anon": 8.294966785896781,
+    "entropy": 2.13027177256514,
+    "track_frac": 0.397635,
+    "silent_frac": 0.0,
+    "changes": 7828
+   },
+   "Random + silent period": {
+    "success": 0.8394001363326516,
+    "anon": 7.988411724608044,
+    "entropy": 2.0888267582370053,
+    "track_frac": 0.5429816666666666,
+    "silent_frac": 0.06120333333333333,
+    "changes": 7335
+   },
+   "Random + silent + context": {
+    "success": 0.8421267893660531,
+    "anon": 8.027811860940695,
+    "entropy": 2.0946360958179873,
+    "track_frac": 0.5456333333333333,
+    "silent_frac": 0.06120833333333333,
+    "changes": 7335
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7162313593655719,
+    "anon": 14.399362123954832,
+    "entropy": 2.917454087473661,
+    "track_frac": 0.19849166666666668,
+    "silent_frac": 0.09679833333333333,
+    "changes": 11601
+   }
+  }
+ },
+ {
+  "seed": 8,
+  "N": 250,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.9225263157894736,
+    "anon": 3.1376842105263156,
+    "entropy": 0.9190383239604019,
+    "track_frac": 0.6640666666666666,
+    "silent_frac": 0.0,
+    "changes": 2375
+   },
+   "Random interval": {
+    "success": 0.9354346720894764,
+    "anon": 2.8017285205897307,
+    "entropy": 0.8044587373610098,
+    "track_frac": 0.7843933333333333,
+    "silent_frac": 0.0,
+    "changes": 1967
+   },
+   "Random + silent period": {
+    "success": 0.9367970005356187,
+    "anon": 2.7611140867702195,
+    "entropy": 0.782342003160393,
+    "track_frac": 0.7573,
+    "silent_frac": 0.06257333333333333,
+    "changes": 1867
+   },
+   "Random + silent + context": {
+    "success": 0.9125,
+    "anon": 2.856547619047619,
+    "entropy": 0.8980402407875555,
+    "track_frac": 0.7553666666666666,
+    "silent_frac": 0.05588,
+    "changes": 1680
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8172566371681416,
+    "anon": 4.598672566371682,
+    "entropy": 1.5302335499518438,
+    "track_frac": 0.45014,
+    "silent_frac": 0.07586,
+    "changes": 2260
+   }
+  }
+ },
+ {
+  "seed": 8,
+  "N": 500,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8531453818640858,
+    "anon": 5.360193561960867,
+    "entropy": 1.5614698052583558,
+    "track_frac": 0.49412333333333336,
+    "silent_frac": 0.0,
+    "changes": 4753
+   },
+   "Random interval": {
+    "success": 0.8701959786205141,
+    "anon": 4.648002036141512,
+    "entropy": 1.3628829048195727,
+    "track_frac": 0.5847466666666666,
+    "silent_frac": 0.0,
+    "changes": 3929
+   },
+   "Random + silent period": {
+    "success": 0.8958220293000543,
+    "anon": 4.463646228974498,
+    "entropy": 1.331683665569402,
+    "track_frac": 0.6535599999999999,
+    "silent_frac": 0.06193,
+    "changes": 3686
+   },
+   "Random + silent + context": {
+    "success": 0.884306670357044,
+    "anon": 4.563520619983393,
+    "entropy": 1.3776245470010022,
+    "track_frac": 0.6309066666666666,
+    "silent_frac": 0.060493333333333336,
+    "changes": 3613
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7947876447876447,
+    "anon": 7.5994208494208495,
+    "entropy": 2.0637984068386683,
+    "track_frac": 0.34547999999999995,
+    "silent_frac": 0.08653666666666666,
+    "changes": 5180
+   }
+  }
+ },
+ {
+  "seed": 8,
+  "N": 1000,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.7335927639882205,
+    "anon": 9.921539755994951,
+    "entropy": 2.387868033683533,
+    "track_frac": 0.3079483333333333,
+    "silent_frac": 0.0,
+    "changes": 9508
+   },
+   "Random interval": {
+    "success": 0.7731641676278355,
+    "anon": 8.388568499295143,
+    "entropy": 2.1395528974892666,
+    "track_frac": 0.40352,
+    "silent_frac": 0.0,
+    "changes": 7803
+   },
+   "Random + silent period": {
+    "success": 0.829790115098172,
+    "anon": 8.11563981042654,
+    "entropy": 2.1091741478318724,
+    "track_frac": 0.5082116666666667,
+    "silent_frac": 0.061788333333333334,
+    "changes": 7385
+   },
+   "Random + silent + context": {
+    "success": 0.8284706201655584,
+    "anon": 8.10991993486226,
+    "entropy": 2.1071977687763357,
+    "track_frac": 0.5148166666666666,
+    "silent_frac": 0.061685,
+    "changes": 7369
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7179398548219841,
+    "anon": 14.293034911856205,
+    "entropy": 2.900690358022416,
+    "track_frac": 0.20048,
+    "silent_frac": 0.0967,
+    "changes": 11572
+   }
+  }
+ },
+ {
+  "seed": 9,
+  "N": 250,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.9181016379672406,
+    "anon": 3.1369172616547667,
+    "entropy": 0.9266772796485527,
+    "track_frac": 0.6780466666666666,
+    "silent_frac": 0.0,
+    "changes": 2381
+   },
+   "Random interval": {
+    "success": 0.929267042542286,
+    "anon": 2.7734495130702204,
+    "entropy": 0.7847349868195012,
+    "track_frac": 0.7466266666666667,
+    "silent_frac": 0.0,
+    "changes": 1951
+   },
+   "Random + silent period": {
+    "success": 0.9380097879282219,
+    "anon": 2.678085916258836,
+    "entropy": 0.7575321001726429,
+    "track_frac": 0.7921466666666666,
+    "silent_frac": 0.06118666666666667,
+    "changes": 1839
+   },
+   "Random + silent + context": {
+    "success": 0.9034229828850856,
+    "anon": 2.8270171149144256,
+    "entropy": 0.8914407818537449,
+    "track_frac": 0.7247066666666667,
+    "silent_frac": 0.0539,
+    "changes": 1636
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8329550612800726,
+    "anon": 4.588742623694961,
+    "entropy": 1.51940585262891,
+    "track_frac": 0.45714666666666665,
+    "silent_frac": 0.07344666666666666,
+    "changes": 2203
+   }
+  }
+ },
+ {
+  "seed": 9,
+  "N": 500,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8401174989509023,
+    "anon": 5.476919848929921,
+    "entropy": 1.5889413477967969,
+    "track_frac": 0.4725766666666667,
+    "silent_frac": 0.0,
+    "changes": 4766
+   },
+   "Random interval": {
+    "success": 0.8754182754182754,
+    "anon": 4.596911196911197,
+    "entropy": 1.3460590002270938,
+    "track_frac": 0.6102133333333334,
+    "silent_frac": 0.0,
+    "changes": 3885
+   },
+   "Random + silent period": {
+    "success": 0.8945227765726681,
+    "anon": 4.512201735357918,
+    "entropy": 1.3412933217623277,
+    "track_frac": 0.6410966666666666,
+    "silent_frac": 0.061753333333333334,
+    "changes": 3688
+   },
+   "Random + silent + context": {
+    "success": 0.888457269700333,
+    "anon": 4.557713651498335,
+    "entropy": 1.3677238773418747,
+    "track_frac": 0.6426766666666668,
+    "silent_frac": 0.05993,
+    "changes": 3604
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.791970802919708,
+    "anon": 7.560315021129466,
+    "entropy": 2.063097585414462,
+    "track_frac": 0.33467333333333327,
+    "silent_frac": 0.08683,
+    "changes": 5206
+   }
+  }
+ },
+ {
+  "seed": 9,
+  "N": 1000,
+  "coverage": 1.0,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.7336693971854652,
+    "anon": 9.818735559756353,
+    "entropy": 2.374145339892179,
+    "track_frac": 0.31773666666666667,
+    "silent_frac": 0.0,
+    "changes": 9522
+   },
+   "Random interval": {
+    "success": 0.7710735331796055,
+    "anon": 8.32026646169613,
+    "entropy": 2.140046339865887,
+    "track_frac": 0.39683,
+    "silent_frac": 0.0,
+    "changes": 7806
+   },
+   "Random + silent period": {
+    "success": 0.8292418282924183,
+    "anon": 8.041502780415028,
+    "entropy": 2.0988920484042337,
+    "track_frac": 0.5159066666666666,
+    "silent_frac": 0.061726666666666666,
+    "changes": 7373
+   },
+   "Random + silent + context": {
+    "success": 0.8310911808669657,
+    "anon": 8.010735154232911,
+    "entropy": 2.096867554998893,
+    "track_frac": 0.5232450000000001,
+    "silent_frac": 0.06150333333333333,
+    "changes": 7359
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7164628896159807,
+    "anon": 14.345617358360599,
+    "entropy": 2.910360152126891,
+    "track_frac": 0.19973333333333335,
+    "silent_frac": 0.09685333333333333,
+    "changes": 11614
+   }
+  }
+ },
+ {
+  "seed": 0,
+  "N": 500,
+  "coverage": 0.25,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8448947778643804,
+    "anon": 4.850350740452066,
+    "entropy": 1.4450875134307621,
+    "track_frac": 0.8470166666666666,
+    "silent_frac": 0.0,
+    "changes": 4746
+   },
+   "Random interval": {
+    "success": 0.8759259259259259,
+    "anon": 4.1685185185185185,
+    "entropy": 1.2318050425915636,
+    "track_frac": 0.8644766666666667,
+    "silent_frac": 0.0,
+    "changes": 3919
+   },
+   "Random + silent period": {
+    "success": 0.8875379939209727,
+    "anon": 3.889564336372847,
+    "entropy": 1.1911698792729004,
+    "track_frac": 0.89648,
+    "silent_frac": 0.06123,
+    "changes": 3675
+   },
+   "Random + silent + context": {
+    "success": 0.8609406952965235,
+    "anon": 4.10838445807771,
+    "entropy": 1.270463509921511,
+    "track_frac": 0.8801433333333333,
+    "silent_frac": 0.059796666666666665,
+    "changes": 3595
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7780187997107737,
+    "anon": 6.574837310195227,
+    "entropy": 1.9061766650176672,
+    "track_frac": 0.75602,
+    "silent_frac": 0.08628666666666666,
+    "changes": 5180
+   }
+  }
+ },
+ {
+  "seed": 0,
+  "N": 500,
+  "coverage": 0.5,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8462954440865164,
+    "anon": 5.1449608835711,
+    "entropy": 1.502158365477671,
+    "track_frac": 0.7513033333333333,
+    "silent_frac": 0.0,
+    "changes": 4746
+   },
+   "Random interval": {
+    "success": 0.8814031180400891,
+    "anon": 4.334075723830735,
+    "entropy": 1.2734724101314099,
+    "track_frac": 0.8066033333333333,
+    "silent_frac": 0.0,
+    "changes": 3919
+   },
+   "Random + silent period": {
+    "success": 0.8774422735346359,
+    "anon": 4.152753108348135,
+    "entropy": 1.2553667321334734,
+    "track_frac": 0.8067466666666667,
+    "silent_frac": 0.06123,
+    "changes": 3675
+   },
+   "Random + silent + context": {
+    "success": 0.8643966547192353,
+    "anon": 4.387694145758662,
+    "entropy": 1.3354069816319856,
+    "track_frac": 0.8074566666666666,
+    "silent_frac": 0.059796666666666665,
+    "changes": 3595
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7864160615121742,
+    "anon": 7.016232379325075,
+    "entropy": 1.9746649561432554,
+    "track_frac": 0.6235700000000001,
+    "silent_frac": 0.08628666666666666,
+    "changes": 5180
+   }
+  }
+ },
+ {
+  "seed": 1,
+  "N": 500,
+  "coverage": 0.25,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8477769404672193,
+    "anon": 4.956292388847023,
+    "entropy": 1.4527854674092586,
+    "track_frac": 0.8541166666666665,
+    "silent_frac": 0.0,
+    "changes": 4735
+   },
+   "Random interval": {
+    "success": 0.872072072072072,
+    "anon": 4.3558558558558556,
+    "entropy": 1.3007817770079888,
+    "track_frac": 0.8706433333333333,
+    "silent_frac": 0.0,
+    "changes": 3934
+   },
+   "Random + silent period": {
+    "success": 0.8972868217054264,
+    "anon": 4.145348837209302,
+    "entropy": 1.2681442289640876,
+    "track_frac": 0.8996966666666667,
+    "silent_frac": 0.06136333333333333,
+    "changes": 3687
+   },
+   "Random + silent + context": {
+    "success": 0.8561576354679803,
+    "anon": 4.1901477832512315,
+    "entropy": 1.2911289372898769,
+    "track_frac": 0.8677266666666666,
+    "silent_frac": 0.060013333333333335,
+    "changes": 3609
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7673469387755102,
+    "anon": 7.036054421768707,
+    "entropy": 1.9597266874022445,
+    "track_frac": 0.75164,
+    "silent_frac": 0.08715333333333333,
+    "changes": 5226
+   }
+  }
+ },
+ {
+  "seed": 1,
+  "N": 500,
+  "coverage": 0.5,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8541480820695807,
+    "anon": 5.2007136485281,
+    "entropy": 1.505776754934003,
+    "track_frac": 0.7519133333333334,
+    "silent_frac": 0.0,
+    "changes": 4735
+   },
+   "Random interval": {
+    "success": 0.868632707774799,
+    "anon": 4.550134048257372,
+    "entropy": 1.3551783523786778,
+    "track_frac": 0.7871866666666667,
+    "silent_frac": 0.0,
+    "changes": 3934
+   },
+   "Random + silent period": {
+    "success": 0.8893303064699205,
+    "anon": 4.397843359818388,
+    "entropy": 1.32391887633583,
+    "track_frac": 0.81244,
+    "silent_frac": 0.06136333333333333,
+    "changes": 3687
+   },
+   "Random + silent + context": {
+    "success": 0.8741916519694297,
+    "anon": 4.306290417401528,
+    "entropy": 1.315315730691156,
+    "track_frac": 0.8048833333333333,
+    "silent_frac": 0.060013333333333335,
+    "changes": 3609
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.784219001610306,
+    "anon": 7.305152979066023,
+    "entropy": 2.0187433847170104,
+    "track_frac": 0.60757,
+    "silent_frac": 0.08715333333333333,
+    "changes": 5226
+   }
+  }
+ },
+ {
+  "seed": 2,
+  "N": 500,
+  "coverage": 0.25,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8738670694864048,
+    "anon": 4.780966767371601,
+    "entropy": 1.4271738002793957,
+    "track_frac": 0.8552766666666667,
+    "silent_frac": 0.0,
+    "changes": 4769
+   },
+   "Random interval": {
+    "success": 0.8842297174111212,
+    "anon": 4.105742935278031,
+    "entropy": 1.2508696744352659,
+    "track_frac": 0.8921133333333333,
+    "silent_frac": 0.0,
+    "changes": 3934
+   },
+   "Random + silent period": {
+    "success": 0.8891129032258065,
+    "anon": 3.9163306451612905,
+    "entropy": 1.1742875730063684,
+    "track_frac": 0.8894566666666667,
+    "silent_frac": 0.06122333333333333,
+    "changes": 3670
+   },
+   "Random + silent + context": {
+    "success": 0.8496993987975952,
+    "anon": 4.06312625250501,
+    "entropy": 1.2466102925047686,
+    "track_frac": 0.8592866666666668,
+    "silent_frac": 0.06082333333333333,
+    "changes": 3634
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.8057652711050103,
+    "anon": 6.7076183939601925,
+    "entropy": 1.9086363037498644,
+    "track_frac": 0.7749333333333333,
+    "silent_frac": 0.08700666666666666,
+    "changes": 5223
+   }
+  }
+ },
+ {
+  "seed": 2,
+  "N": 500,
+  "coverage": 0.5,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8593258426966293,
+    "anon": 5.08,
+    "entropy": 1.4855799979453816,
+    "track_frac": 0.7372099999999999,
+    "silent_frac": 0.0,
+    "changes": 4769
+   },
+   "Random interval": {
+    "success": 0.865564738292011,
+    "anon": 4.350413223140496,
+    "entropy": 1.313026734729531,
+    "track_frac": 0.79193,
+    "silent_frac": 0.0,
+    "changes": 3934
+   },
+   "Random + silent period": {
+    "success": 0.8740344622697563,
+    "anon": 4.10873440285205,
+    "entropy": 1.2269670854846308,
+    "track_frac": 0.80162,
+    "silent_frac": 0.06122333333333333,
+    "changes": 3670
+   },
+   "Random + silent + context": {
+    "success": 0.8632273545290942,
+    "anon": 4.242351529694061,
+    "entropy": 1.2965185826241306,
+    "track_frac": 0.7739566666666667,
+    "silent_frac": 0.06082333333333333,
+    "changes": 3634
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7921585160202361,
+    "anon": 7.059443507588533,
+    "entropy": 1.966063358730464,
+    "track_frac": 0.62892,
+    "silent_frac": 0.08700666666666666,
+    "changes": 5223
+   }
+  }
+ },
+ {
+  "seed": 3,
+  "N": 500,
+  "coverage": 0.25,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8557763061074319,
+    "anon": 4.904341427520236,
+    "entropy": 1.4638305769372495,
+    "track_frac": 0.8388899999999999,
+    "silent_frac": 0.0,
+    "changes": 4747
+   },
+   "Random interval": {
+    "success": 0.8613074204946997,
+    "anon": 4.392226148409894,
+    "entropy": 1.313776684061996,
+    "track_frac": 0.8519,
+    "silent_frac": 0.0,
+    "changes": 3902
+   },
+   "Random + silent period": {
+    "success": 0.8702651515151515,
+    "anon": 4.078598484848484,
+    "entropy": 1.220904597656887,
+    "track_frac": 0.8628599999999998,
+    "silent_frac": 0.062033333333333336,
+    "changes": 3690
+   },
+   "Random + silent + context": {
+    "success": 0.8599412340842312,
+    "anon": 4.105778648383938,
+    "entropy": 1.2417965349618176,
+    "track_frac": 0.8688866666666667,
+    "silent_frac": 0.06025333333333333,
+    "changes": 3600
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7801324503311259,
+    "anon": 7.024503311258278,
+    "entropy": 1.9662948589069837,
+    "track_frac": 0.7312266666666667,
+    "silent_frac": 0.08732666666666666,
+    "changes": 5199
+   }
+  }
+ },
+ {
+  "seed": 3,
+  "N": 500,
+  "coverage": 0.5,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8567753001715266,
+    "anon": 5.392795883361921,
+    "entropy": 1.5650180749530247,
+    "track_frac": 0.7260599999999999,
+    "silent_frac": 0.0,
+    "changes": 4747
+   },
+   "Random interval": {
+    "success": 0.8556319407720783,
+    "anon": 4.670544685351666,
+    "entropy": 1.3737146553008412,
+    "track_frac": 0.7513733333333332,
+    "silent_frac": 0.0,
+    "changes": 3902
+   },
+   "Random + silent period": {
+    "success": 0.8719512195121951,
+    "anon": 4.426274944567628,
+    "entropy": 1.3247536963716708,
+    "track_frac": 0.7813766666666667,
+    "silent_frac": 0.062033333333333336,
+    "changes": 3690
+   },
+   "Random + silent + context": {
+    "success": 0.8756359525155455,
+    "anon": 4.5019785189372525,
+    "entropy": 1.3540356805790714,
+    "track_frac": 0.7872933333333333,
+    "silent_frac": 0.06025333333333333,
+    "changes": 3600
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7758215962441315,
+    "anon": 7.567292644757433,
+    "entropy": 2.0615916988232224,
+    "track_frac": 0.5887066666666667,
+    "silent_frac": 0.08732666666666666,
+    "changes": 5199
+   }
+  }
+ },
+ {
+  "seed": 4,
+  "N": 500,
+  "coverage": 0.25,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8325157673440785,
+    "anon": 5.16958654519972,
+    "entropy": 1.5032567248952315,
+    "track_frac": 0.7955333333333333,
+    "silent_frac": 0.0,
+    "changes": 4774
+   },
+   "Random interval": {
+    "success": 0.8603678929765887,
+    "anon": 4.461538461538462,
+    "entropy": 1.341440355375338,
+    "track_frac": 0.8295166666666667,
+    "silent_frac": 0.0,
+    "changes": 3893
+   },
+   "Random + silent period": {
+    "success": 0.8840182648401826,
+    "anon": 4.240182648401826,
+    "entropy": 1.2788713836184096,
+    "track_frac": 0.8764666666666667,
+    "silent_frac": 0.060546666666666665,
+    "changes": 3649
+   },
+   "Random + silent + context": {
+    "success": 0.8368087035358114,
+    "anon": 4.29102447869447,
+    "entropy": 1.3256335989789194,
+    "track_frac": 0.8274300000000001,
+    "silent_frac": 0.06043333333333333,
+    "changes": 3616
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7896379525593009,
+    "anon": 7.3270911360799005,
+    "entropy": 2.0233008847884695,
+    "track_frac": 0.71997,
+    "silent_frac": 0.08778666666666667,
+    "changes": 5219
+   }
+  }
+ },
+ {
+  "seed": 4,
+  "N": 500,
+  "coverage": 0.5,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8490646258503401,
+    "anon": 5.482993197278912,
+    "entropy": 1.5745584355609417,
+    "track_frac": 0.7189500000000001,
+    "silent_frac": 0.0,
+    "changes": 4774
+   },
+   "Random interval": {
+    "success": 0.8516771488469602,
+    "anon": 4.615303983228512,
+    "entropy": 1.3648414534769273,
+    "track_frac": 0.74412,
+    "silent_frac": 0.0,
+    "changes": 3893
+   },
+   "Random + silent period": {
+    "success": 0.8795782463928968,
+    "anon": 4.376803551609323,
+    "entropy": 1.3178172801433732,
+    "track_frac": 0.7908266666666667,
+    "silent_frac": 0.060546666666666665,
+    "changes": 3649
+   },
+   "Random + silent + context": {
+    "success": 0.8587570621468926,
+    "anon": 4.47909604519774,
+    "entropy": 1.3673019323862818,
+    "track_frac": 0.7607233333333333,
+    "silent_frac": 0.06043333333333333,
+    "changes": 3616
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7911787665886026,
+    "anon": 7.4996096799375485,
+    "entropy": 2.0598955971777384,
+    "track_frac": 0.5953933333333333,
+    "silent_frac": 0.08778666666666667,
+    "changes": 5219
+   }
+  }
+ },
+ {
+  "seed": 5,
+  "N": 500,
+  "coverage": 0.25,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.86415963161934,
+    "anon": 4.740598618572525,
+    "entropy": 1.4011406569974274,
+    "track_frac": 0.8539566666666667,
+    "silent_frac": 0.0,
+    "changes": 4762
+   },
+   "Random interval": {
+    "success": 0.8798882681564246,
+    "anon": 4.069832402234637,
+    "entropy": 1.2211251154938532,
+    "track_frac": 0.8784433333333332,
+    "silent_frac": 0.0,
+    "changes": 3923
+   },
+   "Random + silent period": {
+    "success": 0.872255489021956,
+    "anon": 3.9800399201596806,
+    "entropy": 1.1909464278825554,
+    "track_frac": 0.8839466666666668,
+    "silent_frac": 0.06152333333333333,
+    "changes": 3688
+   },
+   "Random + silent + context": {
+    "success": 0.8542914171656687,
+    "anon": 3.805389221556886,
+    "entropy": 1.1751380016566753,
+    "track_frac": 0.8612633333333333,
+    "silent_frac": 0.060513333333333336,
+    "changes": 3621
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7580534612748457,
+    "anon": 6.669636737491433,
+    "entropy": 1.9234988636938013,
+    "track_frac": 0.7240333333333333,
+    "silent_frac": 0.08722666666666666,
+    "changes": 5240
+   }
+  }
+ },
+ {
+  "seed": 5,
+  "N": 500,
+  "coverage": 0.5,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8595531235750113,
+    "anon": 5.022799817601459,
+    "entropy": 1.4769117076950191,
+    "track_frac": 0.74727,
+    "silent_frac": 0.0,
+    "changes": 4762
+   },
+   "Random interval": {
+    "success": 0.8746579091406678,
+    "anon": 4.261083743842365,
+    "entropy": 1.280075905371044,
+    "track_frac": 0.7982400000000001,
+    "silent_frac": 0.0,
+    "changes": 3923
+   },
+   "Random + silent period": {
+    "success": 0.8832638475282907,
+    "anon": 4.185824895771292,
+    "entropy": 1.2481132168274667,
+    "track_frac": 0.8267866666666667,
+    "silent_frac": 0.06152333333333333,
+    "changes": 3688
+   },
+   "Random + silent + context": {
+    "success": 0.8664281454979129,
+    "anon": 4.16159809183065,
+    "entropy": 1.274430017715639,
+    "track_frac": 0.7975966666666666,
+    "silent_frac": 0.060513333333333336,
+    "changes": 3621
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7734668335419274,
+    "anon": 7.167292448894451,
+    "entropy": 2.0237929011488,
+    "track_frac": 0.60831,
+    "silent_frac": 0.08722666666666666,
+    "changes": 5240
+   }
+  }
+ },
+ {
+  "seed": 6,
+  "N": 500,
+  "coverage": 0.25,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8576893649579189,
+    "anon": 4.7260902830910485,
+    "entropy": 1.3969618683937515,
+    "track_frac": 0.83904,
+    "silent_frac": 0.0,
+    "changes": 4764
+   },
+   "Random interval": {
+    "success": 0.8758109360518999,
+    "anon": 4.128822984244671,
+    "entropy": 1.2067724743142705,
+    "track_frac": 0.86285,
+    "silent_frac": 0.0,
+    "changes": 3923
+   },
+   "Random + silent period": {
+    "success": 0.8757455268389662,
+    "anon": 3.9284294234592445,
+    "entropy": 1.1867791618374095,
+    "track_frac": 0.8829366666666667,
+    "silent_frac": 0.06170666666666667,
+    "changes": 3685
+   },
+   "Random + silent + context": {
+    "success": 0.8667324777887463,
+    "anon": 4.020730503455084,
+    "entropy": 1.2284245973311028,
+    "track_frac": 0.8748033333333333,
+    "silent_frac": 0.0606,
+    "changes": 3626
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7768537768537769,
+    "anon": 6.37075537075537,
+    "entropy": 1.8295815952494126,
+    "track_frac": 0.7016333333333333,
+    "silent_frac": 0.08780666666666667,
+    "changes": 5251
+   }
+  }
+ },
+ {
+  "seed": 6,
+  "N": 500,
+  "coverage": 0.5,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8506493506493507,
+    "anon": 5.228571428571429,
+    "entropy": 1.523289155854865,
+    "track_frac": 0.7008633333333334,
+    "silent_frac": 0.0,
+    "changes": 4764
+   },
+   "Random interval": {
+    "success": 0.8671586715867159,
+    "anon": 4.487612018977333,
+    "entropy": 1.3069080082076905,
+    "track_frac": 0.7561700000000001,
+    "silent_frac": 0.0,
+    "changes": 3923
+   },
+   "Random + silent period": {
+    "success": 0.8793686583990981,
+    "anon": 4.286922209695603,
+    "entropy": 1.2883947913973781,
+    "track_frac": 0.80002,
+    "silent_frac": 0.06170666666666667,
+    "changes": 3685
+   },
+   "Random + silent + context": {
+    "success": 0.8667830133798721,
+    "anon": 4.331006399069226,
+    "entropy": 1.313996536369653,
+    "track_frac": 0.8006766666666667,
+    "silent_frac": 0.0606,
+    "changes": 3626
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7925807738332669,
+    "anon": 7.16633426406063,
+    "entropy": 1.9898796784034325,
+    "track_frac": 0.5933166666666666,
+    "silent_frac": 0.08780666666666667,
+    "changes": 5251
+   }
+  }
+ },
+ {
+  "seed": 7,
+  "N": 500,
+  "coverage": 0.25,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8537878787878788,
+    "anon": 4.65,
+    "entropy": 1.3909837234787366,
+    "track_frac": 0.8262633333333333,
+    "silent_frac": 0.0,
+    "changes": 4759
+   },
+   "Random interval": {
+    "success": 0.880485527544351,
+    "anon": 4.120448179271708,
+    "entropy": 1.2350116649850253,
+    "track_frac": 0.8741700000000001,
+    "silent_frac": 0.0,
+    "changes": 3931
+   },
+   "Random + silent period": {
+    "success": 0.9018830525272548,
+    "anon": 3.8761149653121905,
+    "entropy": 1.1910716275846835,
+    "track_frac": 0.8943666666666665,
+    "silent_frac": 0.06071,
+    "changes": 3653
+   },
+   "Random + silent + context": {
+    "success": 0.861796643632774,
+    "anon": 4.059230009871668,
+    "entropy": 1.2496249623460025,
+    "track_frac": 0.8678233333333333,
+    "silent_frac": 0.059776666666666665,
+    "changes": 3606
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7882758620689655,
+    "anon": 6.843448275862069,
+    "entropy": 1.9365369777507146,
+    "track_frac": 0.74176,
+    "silent_frac": 0.08729333333333333,
+    "changes": 5237
+   }
+  }
+ },
+ {
+  "seed": 7,
+  "N": 500,
+  "coverage": 0.5,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.844306049822064,
+    "anon": 5.1637010676156585,
+    "entropy": 1.5096868339650196,
+    "track_frac": 0.72493,
+    "silent_frac": 0.0,
+    "changes": 4759
+   },
+   "Random interval": {
+    "success": 0.8619022031166039,
+    "anon": 4.464803868887695,
+    "entropy": 1.321116813685329,
+    "track_frac": 0.7728166666666667,
+    "silent_frac": 0.0,
+    "changes": 3931
+   },
+   "Random + silent period": {
+    "success": 0.8879210220673636,
+    "anon": 4.166666666666667,
+    "entropy": 1.2609435647602978,
+    "track_frac": 0.81086,
+    "silent_frac": 0.06071,
+    "changes": 3653
+   },
+   "Random + silent + context": {
+    "success": 0.8596698113207547,
+    "anon": 4.388561320754717,
+    "entropy": 1.3375712920621563,
+    "track_frac": 0.7841066666666666,
+    "silent_frac": 0.059776666666666665,
+    "changes": 3606
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.779578606158833,
+    "anon": 7.3857374392220425,
+    "entropy": 2.0447936118185814,
+    "track_frac": 0.6003000000000001,
+    "silent_frac": 0.08729333333333333,
+    "changes": 5237
+   }
+  }
+ },
+ {
+  "seed": 8,
+  "N": 500,
+  "coverage": 0.25,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.866462010744436,
+    "anon": 4.7214121258633925,
+    "entropy": 1.40632332594116,
+    "track_frac": 0.8664166666666667,
+    "silent_frac": 0.0,
+    "changes": 4753
+   },
+   "Random interval": {
+    "success": 0.8816402609506058,
+    "anon": 4.142590866728797,
+    "entropy": 1.2495127912988233,
+    "track_frac": 0.8844500000000001,
+    "silent_frac": 0.0,
+    "changes": 3929
+   },
+   "Random + silent period": {
+    "success": 0.8741396263520157,
+    "anon": 3.944936086529007,
+    "entropy": 1.1797868431099097,
+    "track_frac": 0.8785866666666666,
+    "silent_frac": 0.06193,
+    "changes": 3686
+   },
+   "Random + silent + context": {
+    "success": 0.856858846918489,
+    "anon": 4.058648111332008,
+    "entropy": 1.2511107802081611,
+    "track_frac": 0.8621400000000001,
+    "silent_frac": 0.060493333333333336,
+    "changes": 3613
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7884615384615384,
+    "anon": 7.029202279202279,
+    "entropy": 1.9742601633249666,
+    "track_frac": 0.7597,
+    "silent_frac": 0.08653666666666666,
+    "changes": 5180
+   }
+  }
+ },
+ {
+  "seed": 8,
+  "N": 500,
+  "coverage": 0.5,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.857918552036199,
+    "anon": 5.043438914027149,
+    "entropy": 1.492067724011051,
+    "track_frac": 0.7259733333333334,
+    "silent_frac": 0.0,
+    "changes": 4753
+   },
+   "Random interval": {
+    "success": 0.8647917793401839,
+    "anon": 4.355327203893997,
+    "entropy": 1.299769332079968,
+    "track_frac": 0.7738066666666666,
+    "silent_frac": 0.0,
+    "changes": 3929
+   },
+   "Random + silent period": {
+    "success": 0.8698190309398716,
+    "anon": 4.244600116754232,
+    "entropy": 1.2731492845798933,
+    "track_frac": 0.7950666666666666,
+    "silent_frac": 0.06193,
+    "changes": 3686
+   },
+   "Random + silent + context": {
+    "success": 0.8645465253239105,
+    "anon": 4.319199057714958,
+    "entropy": 1.3322016381963602,
+    "track_frac": 0.7859866666666667,
+    "silent_frac": 0.060493333333333336,
+    "changes": 3613
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7917362270450752,
+    "anon": 7.235809682804675,
+    "entropy": 2.004941762182822,
+    "track_frac": 0.6043,
+    "silent_frac": 0.08653666666666666,
+    "changes": 5180
+   }
+  }
+ },
+ {
+  "seed": 9,
+  "N": 500,
+  "coverage": 0.25,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8383371824480369,
+    "anon": 4.867590454195535,
+    "entropy": 1.4522882088550306,
+    "track_frac": 0.8312633333333334,
+    "silent_frac": 0.0,
+    "changes": 4766
+   },
+   "Random interval": {
+    "success": 0.871866295264624,
+    "anon": 4.100278551532034,
+    "entropy": 1.2239929906030953,
+    "track_frac": 0.8811666666666668,
+    "silent_frac": 0.0,
+    "changes": 3885
+   },
+   "Random + silent period": {
+    "success": 0.8794117647058823,
+    "anon": 3.981372549019608,
+    "entropy": 1.20632226861728,
+    "track_frac": 0.8911433333333333,
+    "silent_frac": 0.061753333333333334,
+    "changes": 3688
+   },
+   "Random + silent + context": {
+    "success": 0.8577036310107949,
+    "anon": 4.009813542688911,
+    "entropy": 1.2216728880086085,
+    "track_frac": 0.8653033333333333,
+    "silent_frac": 0.05993,
+    "changes": 3604
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7820602662929222,
+    "anon": 6.778556412053258,
+    "entropy": 1.94007308374106,
+    "track_frac": 0.7799766666666667,
+    "silent_frac": 0.08683,
+    "changes": 5206
+   }
+  }
+ },
+ {
+  "seed": 9,
+  "N": 500,
+  "coverage": 0.5,
+  "res": {
+   "Static pseudonym": {
+    "success": 1.0,
+    "anon": 1.0,
+    "entropy": 0.0,
+    "track_frac": 1.0,
+    "silent_frac": 0.0,
+    "changes": 0
+   },
+   "Periodic (60 s)": {
+    "success": 0.8269143633892161,
+    "anon": 5.181241504304486,
+    "entropy": 1.5336398174847437,
+    "track_frac": 0.7035233333333333,
+    "silent_frac": 0.0,
+    "changes": 4766
+   },
+   "Random interval": {
+    "success": 0.8710217755443886,
+    "anon": 4.322724734785036,
+    "entropy": 1.2788045898700753,
+    "track_frac": 0.8013533333333334,
+    "silent_frac": 0.0,
+    "changes": 3885
+   },
+   "Random + silent period": {
+    "success": 0.8755952380952381,
+    "anon": 4.151190476190476,
+    "entropy": 1.2471266768931677,
+    "track_frac": 0.8155433333333333,
+    "silent_frac": 0.061753333333333334,
+    "changes": 3688
+   },
+   "Random + silent + context": {
+    "success": 0.8547995139732685,
+    "anon": 4.260024301336574,
+    "entropy": 1.2985573868514433,
+    "track_frac": 0.7617966666666667,
+    "silent_frac": 0.05993,
+    "changes": 3604
+   },
+   "DLBCDTMS-PP (cooperative, synchronised)": {
+    "success": 0.7880434782608695,
+    "anon": 7.170568561872909,
+    "entropy": 2.010483577912971,
+    "track_frac": 0.6265466666666666,
+    "silent_frac": 0.08683,
+    "changes": 5206
+   }
+  }
+ }
+]
